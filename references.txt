@@ -1,0 +1,5 @@
+
+https://github.com/justmarkham/scikit-learn-videos
+https://github.com/ageron/handson-ml
+https://github.com/lucko515/breast-cancer-classification
+https://github.com/justmarkham/DAT8
